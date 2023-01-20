@@ -9,7 +9,7 @@ jobs:
   hello_world:
     runs-on: ubuntu-18.04
     steps:
-      - name: Echo the message
+      - name: Saludame
         run: |
           echo "Hola Ale!"
       - name: Dime la fecha
